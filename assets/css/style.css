@@ -32,7 +32,7 @@ header img {
 nav {
     padding: 2rem  3rem;
     position: fixed;
-    width: 100%;
+    width: 100vw;
     display: flex;
     align-items: center;
 }
@@ -75,8 +75,8 @@ nav a:hover {
 
 .hero {
     background: rgba(47, 47, 47, 0.685);
-    min-width: 80vw;
-    height: 60vh;
+    min-width: 80%;
+    height: 60%;
     align-self: center;
     border: 5px double white;
     margin-top: 10rem;
