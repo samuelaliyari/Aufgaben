@@ -108,7 +108,9 @@ nav a:hover {
     text-align: center;
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     background-color: rgba(253, 255, 255, 0.226);
-    transition: all linear 600ms;
+    transition: all linear 500ms;
+    border-radius: 15px;
+
 }
 
 
